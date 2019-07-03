@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="252px" viewBox="0 0 252 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape 1 Outline Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Team" transform="translate(-173.000000, -1527.000000)" stroke="#FFEDCC">
+            <g id="Shape-1-Outline" transform="translate(174.000000, 1528.000000)">
+                <g id="Group">
+                    <polygon id="Polygon" points="125 0 213.4375 36.5625 250 125 213.4375 213.4375 125 250 36.5625 213.4375 0 125 36.5625 36.5625"></polygon>
+                    <polygon id="Path-2" points="213.4375 36.5625 205.3125 92.5 250 125 206.09375 155.9375 213.59375 213.4375 158.4375 205 125 250 93.75 205.9375 36.5625 213.4375 44.6875 157.5 0 125 44.375 93.125 36.5625 36.5625 92.1875 44.6875 125 0 152.8125 42.8125"></polygon>
+                    <polygon id="Polygon-Copy-2" points="125 31.25 191.328125 58.671875 218.75 125 191.5625 191.25 125 218.75 58.671875 191.328125 31.25 125 58.671875 58.671875"></polygon>
+                    <polygon id="Polygon-Copy" points="125 62.5 169.21875 80.78125 187.5 125 169.21875 169.21875 125 187.5 80.78125 169.21875 61.875 125 80.625 80.625"></polygon>
+                    <polygon id="Path-3" points="169.375 80.625 152.8125 42.8125 125 62.5 92.1875 44.6875 80.625 80.625 44.375 93.125 61.875 125 44.6875 157.5 80.9375 169.375 93.75 205.9375 124.6875 186.875 157.96875 204.53125 169.375 169.0625 205.9375 155.9375 187.5 125 205.3125 92.5"></polygon>
+                    <polygon id="Polygon-Copy-3" points="125 93.75 147.109375 102.890625 156.25 125 147.109375 147.109375 125 156.25 102.890625 147.109375 93.75 125 102.890625 102.890625"></polygon>
+                    <path d="M125,0 L125,250" id="Line" stroke-linecap="square"></path>
+                    <path d="M213.4375,213.125 L36.5625,36.5625" id="Line" stroke-linecap="square"></path>
+                    <path d="M213.4375,36.5625 L36.5625,213.4375" id="Line" stroke-linecap="square"></path>
+                    <path d="M205.3125,92.5 L125,125" id="Line" stroke-linecap="square"></path>
+                    <path d="M205.9375,155.9375 L125,125" id="Line" stroke-linecap="square"></path>
+                    <path d="M157.65625,204.21875 L125,125" id="Line" stroke-linecap="square"></path>
+                    <path d="M93.75,205.9375 L125,125" id="Line" stroke-linecap="square"></path>
+                    <path d="M44.6875,157.5 L125,125" id="Line" stroke-linecap="square"></path>
+                    <path d="M44.375,93.125 L124.84375,124.84375" id="Line" stroke-linecap="square"></path>
+                    <path d="M92.1875,44.6875 L125.46875,125.78125" id="Line" stroke-linecap="square"></path>
+                    <path d="M152.8125,42.8125 L125,125" id="Line" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

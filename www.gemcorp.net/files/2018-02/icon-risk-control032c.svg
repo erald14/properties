@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon: Risk Control</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon:-Risk-Control">
+            <g id="Group-2" transform="translate(5.000000, 5.000000)">
+                <polygon id="Fill-260" fill="#FFFAF3" points="80.9998 37.5003 88.1598 33.3663 88.1598 41.6343"></polygon>
+                <path d="M88.6599,32.5003 L79.9999,37.5003 L88.6599,42.5003 L88.6599,32.5003 Z M87.6599,34.2323 L87.6599,40.7683 L81.9999,37.5003 L87.6599,34.2323 Z" id="Fill-261" fill="#9B9A9A"></path>
+                <polygon id="Fill-262" fill="#FFFFFF" points="0 10 100 10 100 0 0 0"></polygon>
+                <polygon id="Stroke-263" stroke="#9B9A9A" points="0 10 100 10 100 0 0 0"></polygon>
+                <polygon id="Fill-264" fill="#FFFAF3" points="0 80 40 80 40 10 0 10"></polygon>
+                <polygon id="Stroke-265" stroke="#9B9A9A" points="0 80 40 80 40 10 0 10"></polygon>
+                <polygon id="Fill-266" fill="#FFFFFF" points="40 80 80 80 80 10 40 10"></polygon>
+                <polygon id="Stroke-267" stroke="#9B9A9A" points="40 80 80 80 80 10 40 10"></polygon>
+                <polygon id="Fill-268" fill="#FFFFFF" points="80 80 100 80 100 45 80 45"></polygon>
+                <polygon id="Stroke-269" stroke="#9B9A9A" points="80 80 100 80 100 45 80 45"></polygon>
+                <polygon id="Fill-270" fill="#FFFFFF" points="40 45 100 45 100 10 40 10"></polygon>
+                <polygon id="Stroke-271" stroke="#9B9A9A" points="40 45 100 45 100 10 40 10"></polygon>
+                <g id="Group-274" transform="translate(12.501000, 19.750000)">
+                    <path d="M0.832,0.2513 L0.832,50.2493" id="Fill-272" fill="#FFFFFF"></path>
+                    <path d="M0.832,0.2513 L0.832,50.2493" id="Stroke-273" stroke="#9B9A9A"></path>
+                </g>
+                <g id="Group-277" transform="translate(26.501000, 19.750000)">
+                    <path d="M0.1654,0.2513 L0.1654,50.2493" id="Fill-275" fill="#FFFFFF"></path>
+                    <path d="M0.1654,0.2513 L0.1654,50.2493" id="Stroke-276" stroke="#9B9A9A"></path>
+                </g>
+                <g id="Group-280" transform="translate(52.501000, 54.750000)">
+                    <path d="M0.832,0.2513 L0.832,15.2503" id="Fill-278" fill="#FFFFFF"></path>
+                    <path d="M0.832,0.2513 L0.832,15.2503" id="Stroke-279" stroke="#9B9A9A"></path>
+                </g>
+                <polyline id="Stroke-281" stroke="#9B9A9A" points="53.333 27.5003 53.333 4.7623 10.001 5.0003"></polyline>
+                <path d="M16.6664,55.5855 C16.6664,57.4265 15.1744,58.9185 13.3334,58.9185 C11.4924,58.9185 9.9994,57.4265 9.9994,55.5855 C9.9994,53.7445 11.4924,52.2525 13.3334,52.2525 C15.1744,52.2525 16.6664,53.7445 16.6664,55.5855" id="Fill-282" fill="#FFFFFF"></path>
+                <path d="M16.6664,55.5855 C16.6664,57.4265 15.1744,58.9185 13.3334,58.9185 C11.4924,58.9185 9.9994,57.4265 9.9994,55.5855 C9.9994,53.7445 11.4924,52.2525 13.3334,52.2525 C15.1744,52.2525 16.6664,53.7445 16.6664,55.5855 Z" id="Stroke-283" stroke="#9B9A9A"></path>
+                <path d="M43.333,45.0003 C43.333,46.8413 41.841,48.3333 40,48.3333 C38.159,48.3333 36.666,46.8413 36.666,45.0003 C36.666,43.1593 38.159,41.6673 40,41.6673 C41.841,41.6673 43.333,43.1593 43.333,45.0003" id="Fill-284" fill="#FFFAF3"></path>
+                <path d="M43.333,45.0003 C43.333,46.8413 41.841,48.3333 40,48.3333 C38.159,48.3333 36.666,46.8413 36.666,45.0003 C36.666,43.1593 38.159,41.6673 40,41.6673 C41.841,41.6673 43.333,43.1593 43.333,45.0003 Z" id="Stroke-285" stroke="#9B9A9A"></path>
+                <g id="Group-288" transform="translate(66.501000, 54.750000)">
+                    <path d="M0.1655,0.2513 L0.1655,15.2503" id="Fill-286" fill="#FFFFFF"></path>
+                    <path d="M0.1655,0.2513 L0.1655,15.2503" id="Stroke-287" stroke="#9B9A9A"></path>
+                </g>
+                <path d="M69.1665,64.0008 C69.1665,65.3818 68.0475,66.5008 66.6665,66.5008 C65.2855,66.5008 64.1665,65.3818 64.1665,64.0008 C64.1665,62.6198 65.2855,61.5008 66.6665,61.5008 C68.0475,61.5008 69.1665,62.6198 69.1665,64.0008" id="Fill-289" fill="#FFFAF3"></path>
+                <path d="M69.1665,64.0008 C69.1665,65.3818 68.0475,66.5008 66.6665,66.5008 C65.2855,66.5008 64.1665,65.3818 64.1665,64.0008 C64.1665,62.6198 65.2855,61.5008 66.6665,61.5008 C68.0475,61.5008 69.1665,62.6198 69.1665,64.0008 Z" id="Stroke-290" stroke="#9B9A9A"></path>
+                <polygon id="Fill-291" fill="#FFFAF3" points="58.0471 27.5003 53.3331 32.2143 48.6191 27.5003 53.3331 22.7863"></polygon>
+                <polygon id="Stroke-292" stroke="#9B9A9A" points="58.0471 27.5003 53.3331 32.2143 48.6191 27.5003 53.3331 22.7863"></polygon>
+                <path d="M30.6664,34.0481 C30.6664,36.2571 28.8754,38.0481 26.6664,38.0481 C24.4574,38.0481 22.6664,36.2571 22.6664,34.0481 C22.6664,31.8391 24.4574,30.0481 26.6664,30.0481 C28.8754,30.0481 30.6664,31.8391 30.6664,34.0481" id="Fill-293" fill="#ED0F34"></path>
+                <g id="Group-296" transform="translate(83.501000, 53.750000)">
+                    <path d="M0.4634,0.0003 L12.5344,0.0003" id="Fill-294" fill="#FFF3E0"></path>
+                    <path d="M0.4634,0.0003 L12.5344,0.0003" id="Stroke-295" stroke="#9B9A9A"></path>
+                </g>
+                <g id="Group-299" transform="translate(83.501000, 61.750000)">
+                    <path d="M0.4634,0.7503 L12.5344,0.7503" id="Fill-297" fill="#FFF3E0"></path>
+                    <path d="M0.4634,0.7503 L12.5344,0.7503" id="Stroke-298" stroke="#9B9A9A"></path>
+                </g>
+                <g id="Group-302" transform="translate(83.501000, 70.750000)">
+                    <path d="M0.4634,0.5003 L12.5344,0.5003" id="Fill-300" fill="#FFF3E0"></path>
+                    <path d="M0.4634,0.5003 L12.5344,0.5003" id="Stroke-301" stroke="#9B9A9A"></path>
+                </g>
+                <polygon id="Fill-303" fill="#FFF3E0" points="89.9998 68.0388 59.9998 119.9998 119.9998 119.9998"></polygon>
+                <polygon id="Fill-304" fill="#FFEECC" points="68.6599 115.0003 89.9999 78.0393 111.3399 115.0003"></polygon>
+                <polygon id="Stroke-305" stroke="#9B9A9A" points="68.6599 115.0003 89.9999 78.0393 111.3399 115.0003"></polygon>
+                <polygon id="Fill-306" fill="#FFFFFF" points="87.925 104.571 92.074 104.571 92.074 90.313 87.925 90.313"></polygon>
+                <polygon id="Stroke-307" stroke="#9B9A9A" points="87.925 104.571 92.074 104.571 92.074 90.313 87.925 90.313"></polygon>
+                <polygon id="Fill-308" fill="#FFFFFF" points="87.925 109.966 92.074 109.966 92.074 107.891 87.925 107.891"></polygon>
+                <polygon id="Stroke-309" stroke="#9B9A9A" points="87.925 109.966 92.074 109.966 92.074 107.891 87.925 107.891"></polygon>
+                <polygon id="Fill-310" fill="#FFFAF3" points="67.927 36.25 89.999 36.25 89.999 18.75 67.927 18.75"></polygon>
+                <polygon id="Stroke-311" stroke="#9B9A9A" points="67.927 36.25 89.999 36.25 89.999 18.75 67.927 18.75"></polygon>
+                <polygon id="Fill-312" fill="#FFFAF3" points="49.199 62.0008 53.333 54.8408 57.467 62.0008"></polygon>
+                <path d="M53.3333,53.8406 L48.3333,62.5006 L58.3333,62.5006 L53.3333,53.8406 Z M53.3333,55.8406 L56.6013,61.5006 L50.0653,61.5006 L53.3333,55.8406 Z" id="Fill-313" fill="#9B9A9A"></path>
+                <g id="Group-316" transform="translate(110.501000, 114.750000)">
+                    <path d="M0.8386,0.2503 L9.4986,5.2503" id="Fill-314" fill="#FFFAF3"></path>
+                    <path d="M0.8386,0.2503 L9.4986,5.2503" id="Stroke-315" stroke="#9B9A9A"></path>
+                </g>
+                <g id="Group-319" transform="translate(59.501000, 67.750000)">
+                    <polyline id="Fill-317" fill="#FFFAF3" points="30.4988 0.2888 30.4988 10.2888 9.1588 47.2498 0.4988 52.2498"></polyline>
+                    <polyline id="Stroke-318" stroke="#9B9A9A" points="30.4988 0.2888 30.4988 10.2888 9.1588 47.2498 0.4988 52.2498"></polyline>
+                </g>
+                <polygon id="Stroke-320" stroke="#9B9A9A" points="89.9998 68.0388 59.9998 119.9998 119.9998 119.9998"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

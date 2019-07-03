@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="212px" height="32px" viewBox="0 0 212 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Locations" transform="translate(-82.000000, -434.000000)" stroke="#FFEDCC">
+            <g id="Group-7-Copy" transform="translate(83.000000, 435.000000)">
+                <g id="Shape-2-Outline" transform="translate(90.000000, 0.000000)">
+                    <g id="Group-2" transform="translate(15.000000, 14.981250) rotate(-315.000000) translate(-15.000000, -14.981250) translate(-0.037500, -0.037500)">
+                        <polygon id="Polygon" points="15.0375 0.0375 25.65 4.425 30.0375 15.0375 25.65 25.65 15.0375 30.0375 4.425 25.65 0.0375 15.0375 4.425 4.425"></polygon>
+                        <polygon id="Polygon-Copy-5" points="15.0375 11.2875 17.690625 12.384375 18.7875 15.0375 17.690625 17.690625 15.0375 18.7875 12.384375 17.690625 11.2875 15.0375 12.384375 12.384375"></polygon>
+                        <path d="M4.425,4.4625 L25.66875,25.65" id="Path-5"></path>
+                        <path d="M25.63125,4.44375 L4.44375,25.6125" id="Path-6"></path>
+                        <polygon id="Path-4" points="4.44375 4.44375 7.5375 15.0375 4.44375 25.63125 15.0375 22.5375 25.63125 25.63125 22.48125 15.0375 25.63125 4.44375 15.0375 7.55625"></polygon>
+                        <polygon id="Path-9" points="15.0375 30.0375 9.525 24.15 9.525 20.53125 5.925 20.53125 0.0375 15.0375 5.98125 9.73125 9.7125 9.73125 9.7125 6.01875 15.0375 0.0375 19.9875 6.09375 19.9875 10.0875 23.9625 10.0875 30.0375 15.01875 24.05625 20.41875 20.4 20.41875 20.4 24.075"></polygon>
+                        <polygon id="Path-10" points="15.0375 22.51875 12.39375 17.7 7.5375 15.05625 12.39375 12.39375 15.0375 7.55625 17.6625 12.375 22.48125 15.05625 17.7 17.7"></polygon>
+                    </g>
+                </g>
+                <path d="M70,14.5 L0,14.5" id="Line" stroke-linecap="square"></path>
+                <path d="M210,14.5 L140,14.5" id="Line-Copy-2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
